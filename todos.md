@@ -1,0 +1,9 @@
+# Tasks
+1. ERD.png
+2. DB.sql
+    - GameTitle
+    - GameLicense
+    - gameRental
+    - Gamer
+3. DBTrigger.sql
+4. DBView.sql
